@@ -36,6 +36,32 @@ My goal is to retrain and become a Front-End Developer. I really enjoy learning,
 
 ---
 
+## Code example
+
+```
+const reverse = (text) => {
+  let result = '';
+  let i = 0;
+  while (i <= text.length - 1) {
+    result = text[i] + result;
+    i = i + 1;
+  }
+  return result;
+};
+
+const convertText = (text) => {
+  if (text === '') {
+    return '';
+  }
+  const reversable = text[0] === text[0].toUpperCase();
+  return reversable ? reverse(text) : text;
+};
+
+convertText('Extraordinary claims require extraordinary evidence');
+```
+
+---
+
 ## Experience
 
 |           Period           |                                  Name of the company                                  |       Position       |
