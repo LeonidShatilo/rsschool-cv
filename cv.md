@@ -21,18 +21,18 @@ My goal is to retrain and become a Front-End Developer. I really enjoy learning,
 ## Skills
 
 * **Programming Languages:**
- * HTML
- * CSS
- * JavaScript Basics
- * Java Basics
+    * HTML
+    * CSS
+    * JavaScript Basics
+    * Java Basics
 
 * **Development Tools:** 
- * Visual Studio Code 
- * IntelliJ IDEA
+    * Visual Studio Code 
+    * IntelliJ IDEA
 
 * **Version Control:** 
- * Git
- * GitHub
+    * Git
+    * GitHub
 
 ---
 
