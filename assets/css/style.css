@@ -1,0 +1,196 @@
+body {
+  max-width: 1024px;
+  min-width: 480px;
+  margin: 30px auto;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+h1 {
+  margin: 0px;
+  font-size: 50px;
+  font-weight: 800;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #231f20;
+}
+
+h2 {
+  margin: 10px 0px 0px 0px;
+  padding-left: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #76cdd8;
+}
+
+a {
+  margin-top: 5px;
+  text-decoration: none;
+  color: #0093f5;
+  transition: 200ms linear;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ff0000;
+}
+
+p,
+ul {
+  margin: 10px 20px 20px 0px;
+  padding: 0px 0px 0px 20px;
+  text-align: justify;
+}
+
+hr {
+  width: 100%;
+  height: 5px;
+  margin: 20px 0px;
+  border: #76cdd8;
+  background-color: #76cdd8;
+}
+
+footer {
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.contact-link {
+  margin: 4px 0px;
+  padding: 0px;
+}
+
+.type-of-skills,
+.name-of-company,
+.institution {
+  margin: 10px 20px 7px 0px;
+  font-weight: bolder;
+  text-align: left;
+}
+
+.period,
+.year {
+  margin: 10px 0px 20px 20px;
+  text-align: left;
+  padding: 0px 0px;
+}
+
+.time-box {
+  width: 19%;
+}
+
+.description-box {
+  width: 81%;
+}
+
+.position,
+.degree,
+.faculty-speciality {
+  margin: 0px 20px 0px 0px;
+  margin-top: 5px;
+  text-align: left;
+}
+
+.experience-container,
+.education-container {
+  display: flex;
+}
+
+.unordered-list {
+  margin-left: 25px;
+}
+
+.list-item {
+  margin: 0px;
+  padding-left: 20px;
+}
+
+#photo {
+  width: 250px;
+  margin: 25px 60px;
+}
+
+#name-and-contacts-box {
+  width: 75%;
+}
+
+#desired-position {
+  font-size: 26px;
+  font-weight: 800;
+}
+
+#head-container {
+  display: flex;
+}
+
+#contacts-box {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 710px) {
+  .time-box {
+    width: 25%;
+    transition: 1s;
+  }
+
+  .description-box {
+    width: 75%;
+    transition: 1s;
+  }
+
+  #photo {
+    width: 150px;
+    margin: 10px 40px 0px 40px;
+    padding-right: 0px;
+    transition: 1s;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  h1 {
+    font-size: 42px;
+    transition: 1s;
+  }
+
+  .time-box {
+    width: 35%;
+    transition: 1s;
+  }
+
+  .description-box {
+    width: 65%;
+    transition: 1s;
+  }
+
+  #head-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: 1s;
+  }
+
+  #contacts-box {
+    align-items: center;
+    transition: 1s;
+  }
+
+  #photo {
+    width: 150px;
+    margin: 10px 40px 15px 40px;
+    padding-right: 0px;
+    transition: 1s;
+  }
+
+  #desired-position {
+    font-size: 21px;
+    font-weight: 800;
+    transition: 1s;
+  }
+}
