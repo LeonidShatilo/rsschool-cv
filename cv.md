@@ -30,9 +30,8 @@ My goal is to retrain and become a Front-End Developer. I really enjoy learning,
     * Visual Studio Code 
     * IntelliJ IDEA
 
-* **Version Control:** 
+* **Version Control System:** 
     * Git
-    * GitHub
 
 ---
 
