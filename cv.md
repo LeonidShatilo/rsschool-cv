@@ -4,11 +4,11 @@
 
 ## Contacts
 
-* **E-mail:** *shatiloleonid@gmail.com*
-* **Phone:** *+375447885344*
-* **[Telegram](https://t.me/lyambda)**
-* **[Instagram](https://www.instagram.com/sh.lnd)**
-* **[GitHub](https://github.com/LeonidShatilo)**
+- **E-mail:** *shatiloleonid@gmail.com*
+- **Phone:** _+375447885344_
+- **[Telegram](https://t.me/lyambda)**
+- **[Instagram](https://www.instagram.com/sh.lnd)**
+- **[GitHub](https://github.com/LeonidShatilo)**
 
 ---
 
@@ -20,68 +20,53 @@ My goal is to retrain and become a Front-End Developer. I really enjoy learning,
 
 ## Skills
 
-* **Programming Languages:**
-    * HTML
-    * CSS
-    * JavaScript Basics
-    * Java Basics
+- **Programming Languages:**
 
-* **Development Tools:** 
-    * Visual Studio Code 
-    * IntelliJ IDEA
+  - HTML
+  - CSS
+  - JavaScript Basics
+  - Java Basics
 
-* **Version Control System:** 
-    * Git
+- **Development Tools:**
+
+  - Visual Studio Code
+  - IntelliJ IDEA
+
+- **Version Control System:**
+  - Git
 
 ---
 
 ## Code example
 
-```
-const reverse = (text) => {
-  let result = '';
-  let i = 0;
-  while (i <= text.length - 1) {
-    result = text[i] + result;
-    i = i + 1;
-  }
-  return result;
-};
-
-const convertText = (text) => {
-  if (text === '') {
-    return '';
-  }
-  const reversable = text[0] === text[0].toUpperCase();
-  return reversable ? reverse(text) : text;
-};
-
-convertText('Extraordinary claims require extraordinary evidence');
-```
+- **[Calculator](https://github.com/LeonidShatilo/calculator)**
+- **[Dynamic Landing Page](https://github.com/LeonidShatilo/dynamic-landing-page)**
+- **[Meditation App](https://github.com/LeonidShatilo/meditation-app)**
+- **[Drum Kit](https://github.com/LeonidShatilo/drum-kit)**
 
 ---
 
 ## Experience
 
 |           Period           |                                  Name of the company                                  |       Position       |
-|:--------------------------:|:-------------------------------------------------------------------------------------:|:--------------------:|
-|  September 2020 – present  |                                      EPAM Systems                                     |  UpSkill Lab Student |
-|  August 2018 – August 2020 |                            Gomel Foundry Plant «Tsentrolit»                           |   Process engineer   |
+| :------------------------: | :-----------------------------------------------------------------------------------: | :------------------: |
+|  September 2020 – present  |                                     EPAM Systems                                      | UpSkill Lab Student  |
+| August 2018 – August 2020  |                           Gomel Foundry Plant «Tsentrolit»                            |   Process engineer   |
 | November 2016 – April 2018 | Student Research Laboratories at the Pavel Sukhoi State Technical University of Gomel | Laboratory assistant |
 
 ---
 
 ## Education
 
-| Graduation year |                    Institution                   |          Faculty         |  Degree  |            Speciality           |
-|:---------------:|:------------------------------------------------:|:------------------------:|:--------:|:-------------------------------:|
-|       2019      | Pavel Sukhoi State Technical University of Gomel | Mechanics And Technology |  Master  |            Metallurgy           |
-|       2018      | Pavel Sukhoi State Technical University of Gomel | Mechanics And Technology | Bachelor | Foundry Machines and Technology |
+| Graduation year |                   Institution                    |         Faculty          |  Degree  |           Speciality            |
+| :-------------: | :----------------------------------------------: | :----------------------: | :------: | :-----------------------------: |
+|      2019       | Pavel Sukhoi State Technical University of Gomel | Mechanics And Technology |  Master  |           Metallurgy            |
+|      2018       | Pavel Sukhoi State Technical University of Gomel | Mechanics And Technology | Bachelor | Foundry Machines and Technology |
 
 ---
 
 ## English
 
-I am currently taking an English course at the EPAM UpSkill Lab. My first goal is to raise my level to A2/A2+ and then strive for a higher level. 
+I am currently taking an English course at the EPAM UpSkill Lab. My first goal is to raise my level to A2/A2+ and then strive for a higher level.
 
 ---
